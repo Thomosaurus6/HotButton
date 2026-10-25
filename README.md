@@ -1,14 +1,12 @@
-# HotButton
-
-<p align="center">
-  <img src="assets/hotbutton-icon.png" alt="Stylized HotButton with a red dome button on a black base" width="220">
-</p>
+<h1>HotButton <img src="assets/hotbutton-icon.png" alt="Stylized HotButton with a red dome button on a black base" width="40"></h1>
 
 HotButton is a network-connected, illuminated hardware button for [Bitfocus Companion](https://bitfocus.io/companion). One Ethernet connection supplies power and network communication, while Companion controls the button's actions, LED color, brightness and animation.
 
 **Current release:** 2.0.0
 
 **Interested in HotButton?** Please contact [Thomas Thielen](https://github.com/Thomosaurus6) for availability, integration or further information.
+
+**Manual:** [Download the HotButton 2.0.0 User Manual (PDF)](docs/HotButton_2.0.0_User_Manual.pdf)
 
 ## What HotButton provides
 
